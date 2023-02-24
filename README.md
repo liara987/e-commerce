@@ -1,4 +1,4 @@
-# 🏬 GiGi Doces e lembranças
+# 🏬 GiGi Doces e Lembranças
 
 Um E-commerce para venda de doces e lembraças, que terá as seguintes funcionalidades:
 
